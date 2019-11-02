@@ -1,4 +1,4 @@
-//aqui se alojara el listado de stikers
+
 //con https://api.github.com/repos/sanmail-hub/stikers/contents/
 // se optiene un json del listado de archivos
 //con cada uno de los listados aqui se contrye una nueva linea
@@ -6,7 +6,7 @@
 // donde se optienen cada uno de los ficheros dentro de la familia de stikers
 // donde la key "download_url" nos da el url
 {
-"stikers":[
+"stikers":[//aqui se alojara el listado de stikers listos para el uso luego de comprobarlos
     "mailbear"
 ]
 }
