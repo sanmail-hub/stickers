@@ -1,0 +1,9 @@
+
+{
+  "name":"Oso del correo",
+  "logo":"logo.png"//dentro de la carpeta mailbear
+  //los stikers estaran alojados en la carpeta mailbear y listados 
+  "stikers":[//listado de especificidades de los stikers y de ser necesario listarlos todos aqui
+    "logo.png":["oso", "bear"]//nombre_fichero:[arreglo de palabras y emojis a los que puede estar asociado]
+  ]
+}
