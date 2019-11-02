@@ -1,8 +1,8 @@
 //aqui se alojara el listado de stikers
-//con https://api.github.com/repos/rsanjuan87/sanmail/contents/stikers
+//con https://api.github.com/repos/sanmail-hub/stikers/contents/
 // se optiene un json del listado de archivos
 //con cada uno de los listados aqui se contrye una nueva linea
-// https://api.github.com/repos/rsanjuan87/sanmail/contents/stikers/#name#
+// https://api.github.com/repos/rsanmail-hub/stikers/contents/#name#
 // donde se optienen cada uno de los ficheros dentro de la familia de stikers
 // donde la key "download_url" nos da el url
 {
